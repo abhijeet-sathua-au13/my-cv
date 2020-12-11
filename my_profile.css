@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    color: #2b2b2b;
+    
+}
+.intro{
+    width: 100%;
+    padding: 5px;
+    background-color: #FCE4EC;
+}
+.hobbies>ul{
+    margin-top: 0px;
+}
+.hobbies>ul>li{
+    list-style-type: disc;
+}
